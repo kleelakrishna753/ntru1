@@ -1,0 +1,10 @@
+Government Canada Carretera None 1,618.50
+Government Germany Carretera None 1,321.00
+Midmarket France Carretera None 2,178.00
+Midmarket Germany Carretera None 888.00
+Midmarket Mexico Carretera None 2,470.00
+Government Germany Carretera None 1,513.00
+Midmarket Germany Montana None 921.00
+Channel Partners Canada Montana None 2,518.00
+Government France Montana None 1,899.00
+Channel Partners Germany Montana None 1,545.00
