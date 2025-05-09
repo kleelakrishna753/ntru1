@@ -1,0 +1,2 @@
+[console_scripts]
+ntru = ntru.cli:main
