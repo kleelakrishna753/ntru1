@@ -116,7 +116,7 @@ def decrypt(priv_key_file, input_arr, bin_input=False, block=False):
 
 if __name__ == '__main__':
     args = docopt(__doc__, version='NTRU v0.1')
-    print(args)  # Add this after the `docopt` call to see the parsed arguments
+    #print(args)  # Add this after the `docopt` call to see the parsed arguments
     root = logging.getLogger()
     root.setLevel(logging.DEBUG)
     ch = logging.StreamHandler(sys.stdout)
