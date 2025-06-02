@@ -1,0 +1,3 @@
+rhea@fedora:~/Desktop/gith$ python fin.py encrypt --pubkey pub.key.npz --input FN.csv --output FN.enc
+rhea@fedora:~/Desktop/gith$ python fin.py decrypt --privkey priv.key.npz --input FN.enc --output FN_decrypted.csv
+
